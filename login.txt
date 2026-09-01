@@ -1,2 +1,3 @@
 login functionality
 invalid login error handling
+validate username and password before login
